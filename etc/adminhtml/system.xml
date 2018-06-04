@@ -57,6 +57,7 @@
                 </field>
             </group>
         </section>
+        <!--
         <section id="mpmarketplace" translate="label" type="text" sortOrder="9999" showInDefault="1" showInWebsite="0" showInStore="0">
             <label>Marketplace</label>
             <tab>mageplaza</tab>
@@ -69,5 +70,6 @@
                 ]]></comment>
             </group>
         </section>
+        -->
     </system>
 </config>
